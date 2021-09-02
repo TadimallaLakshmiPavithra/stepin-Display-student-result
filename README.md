@@ -1,2 +1,2 @@
-# stepin-Display-student-result
+# stepin-personal-dairy-management-system
 Miniproject
