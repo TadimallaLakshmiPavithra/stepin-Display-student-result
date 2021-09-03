@@ -1,2 +1,2 @@
-# stepin-personal-dairy-management-system
+# stepin-personal-diary-management-system
 Miniproject
