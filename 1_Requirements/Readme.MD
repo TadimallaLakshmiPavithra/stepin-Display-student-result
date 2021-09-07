@@ -47,13 +47,15 @@ In this console application, you can add, view, edit and delete records. Records
 
 ## Detail Requirements:
 ## High Level Requirements
-|ID|DESCRIPTION|STATUS(IMPLEMENTED/FAILURE)|
-|HR01|login,password,logout|Implemented|
+| ID | DESCRIPTION | STATUS(IMPLEMENTED/FAILURE) |
+| :--: | :---: | :----:| 
+| HR01 | login,password,logout | Implemented |
 
 ## Low Level Requirements
-|ID|DESCRIPTION|HLR ID|STATUS(IMPLEMENTED/FAILURE)|
-|LR01|Add record|HR01|Implemented|
-|LR02|View record|HR01|Implemented|
-|LR03|Edit record|HR01|Implemented|
-|LR04|Edit password|HR01|Implemented|
-|LR05|Delete record|HR01|Implemented|
+| ID | DESCRIPTION | HLR ID | STATUS(IMPLEMENTED/FAILURE) |
+| :--:| :---: | :---: | :----: |
+| LR01 | Add record | HR01 | Implemented |
+| LR02 | View record | HR01 | Implemented |
+| LR03 | Edit record | HR01 | Implemented |
+| LR04 | Edit password | HR01 | Implemented |
+| LR05 | Delete record | HR01 | Implemented |
