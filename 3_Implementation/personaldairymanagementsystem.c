@@ -314,9 +314,9 @@ void editrecord()
                     }
                 }
                 while(num<1||num>8);
-                fseek(fpte,-sizeof(customer),SEEK_CUR);
+                fseek(fpte,sizeof(customer),SEEK_CUR);
                 fwrite(&customer,sizeof(customer),1,fpte);
-                fseek(fpte,-sizeof(customer),SEEK_CUR);
+                fseek(fpte,sizeof(customer),SEEK_CUR);
                 fread(&customer,sizeof(customer),1,fpte);
                 choice=5;
                 break;
