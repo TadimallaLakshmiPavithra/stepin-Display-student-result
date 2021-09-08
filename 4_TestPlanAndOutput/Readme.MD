@@ -18,3 +18,5 @@
 
 - Add menu
 ![Add menu](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/592ab2c2201d141dfe34b364fd4554a011ccd8cc/5_Images/add%20menu.PNG)
+- Delete menu
+![Delete menu](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/blob/d78ee7c489dcb1d2546e246116d4ecdb8f5069d7/5_Images/delete%20menu.PNG)
