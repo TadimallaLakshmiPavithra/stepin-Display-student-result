@@ -3,7 +3,7 @@ TEST_PROJ_NAME = Test_$(PROJ_NAME)
 BUILD_DIR = Build
 
 # All source code files
-SRC = src/main.c\
+SRC = src/main.c
 
 # All test source files
 TEST_SRC = test/test_main.c\
