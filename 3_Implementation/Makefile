@@ -1,6 +1,6 @@
 PROJ_NAME = personal-diary-management-system
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
-BUILD_DIR = build
+BUILD_DIR = Build
 
 # All source code files
 SRC = src/main.c
