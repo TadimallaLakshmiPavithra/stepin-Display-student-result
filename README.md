@@ -1,5 +1,5 @@
 # stepin-personal-dairy-management-system
-Miniproject
+# SDLC Activity Based Learning
 
 ![code quality check](https://www.code-inspector.com/project/27687/score/svg)
 
