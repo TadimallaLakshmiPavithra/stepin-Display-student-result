@@ -6,7 +6,7 @@ BUILD_DIR = Build
 SRC = src/main.c
 
 # All test source files
-TEST_SRC = test/test_main.c\
+TEST_SRC = src/test_main.c\
 unity/unity.c
 
 # All include folders with header files
