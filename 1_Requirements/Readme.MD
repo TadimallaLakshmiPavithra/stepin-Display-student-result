@@ -7,22 +7,22 @@ In this console application, you can add, view, edit and delete records. Records
 * This software can be used by different persons by using different user names and passwords. The person who has an account (administrators) can add daily notes, add photos, set reminders, write autobiography, add biodata etc. There is an advantage of classifying the photos which the administrator adds as private and public. By adding the photos as private the administrator who added the photo will only have the right to delete and the photos will be visible only to the administrator.
 ## Swot analysis
 ## Strengths
-* User friendly interface
-* Used by any age group
-* Saves paper work
-* Minimum cost
-* Less space
+* User friendly interface.
+* Used by any age group.
+* Saves paper work.
+* Minimum cost.
+* Less space.
 ## Weakness
-* No use if people do not check diaries regularly
-* Breakdowns possible in electronic or computer equipment
-* Higher implementation and maintenance costs
+* No use if people do not check diaries regularly.
+* Breakdowns possible in electronic or computer equipment.
+* Higher implementation and maintenance costs.
 ## Opportunities
-* Expansion of technology in all sectors
-* Cost of operation reduced
+* Expansion of technology in all sectors.
+* Cost of operation reduced.
 ## Threats
-* Data Security
-* Create dependence on technology
-* Risk of creating non critical thinkers
+* Data Security.
+* Create dependence on technology.
+* Risk of creating non critical thinkers.
 ## 4W's and 1'H
 ## Who
 * This is used by every one in day to day life
