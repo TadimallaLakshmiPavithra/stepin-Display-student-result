@@ -11,3 +11,5 @@ Miniproject
 [![C/C++ CI](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/actions/workflows/c-build.yml/badge.svg)](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/actions/workflows/c-build.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/actions/workflows/cppcheck.yml)
+
+[![Unit testing](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/actions/workflows/unit-test.yml/badge.svg)](https://github.com/TadimallaLakshmiPavithra/stepin-personal-dairy-management-system/actions/workflows/unit-test.yml)
