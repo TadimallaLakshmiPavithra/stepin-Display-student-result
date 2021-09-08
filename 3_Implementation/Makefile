@@ -4,7 +4,6 @@ BUILD_DIR = Build
 
 # All source code files
 SRC = src/main.c\
-src/func.c
 
 # All test source files
 TEST_SRC = test/test_main.c\
